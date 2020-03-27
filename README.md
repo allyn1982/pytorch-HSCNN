@@ -3,4 +3,4 @@ A Pytorch implementation of the Hierarchical-Semantic-Convolutional-Neural-Netwo
 
 The structure of the HSCNN is as follows. 
 
-![Image of HSCNN architecture]()
+![Image of HSCNN architecture](HSCNN_architecture.png)
